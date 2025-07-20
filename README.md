@@ -127,8 +127,3 @@ Healthcare loans span multiple services and user types, but data is often fragme
 
 ---
 
-
----
-
-> 🧾 **File Name**: `README.md`  
-> 🗓️ **Author**: [Your Name or GitHub Handle]
